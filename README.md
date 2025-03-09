@@ -65,9 +65,9 @@ This starts all necessary services (**Kafka, Zookeeper, Spark, Cassandra, and Ai
 
 ### 4️⃣ **Start the Python Scrip**
 - Go to terminal
-  ```bash
-    python spark-stream.py
-  ```
+```bash
+ python spark-stream.py
+```
 
 ### 5️⃣ **Access Airflow UI (for DAG Scheduling)**
 - Open your browser and go to: `http://localhost:8080`
