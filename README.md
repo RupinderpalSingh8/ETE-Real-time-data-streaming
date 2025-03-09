@@ -64,7 +64,6 @@ This starts all necessary services (**Kafka, Zookeeper, Spark, Cassandra, and Ai
 ```
 
 ### 4️⃣ **Start the Python Scrip**
-- Go to terminal
 ```bash
  python spark-stream.py
 ```
@@ -82,8 +81,6 @@ This starts all necessary services (**Kafka, Zookeeper, Spark, Cassandra, and Ai
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit **issues**, **pull requests**, or **feature requests**.
-
----
 
 ---
 
